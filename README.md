@@ -14,7 +14,6 @@
 
 <h3 align='right'>
   
-[12CS-Data-Analysis-Case-Studies-with-Python](https://github.com/sue-yavuz/12CS-Data-Analysis-Case-Studies-with-Python/blob/master/README.md)
 </h3>
 
 | <h2 alin='center'>Data Analysis Projects with Python</h2> |
